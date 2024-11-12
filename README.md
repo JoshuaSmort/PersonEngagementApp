@@ -10,7 +10,7 @@ In case of emergencies, users can trigger an SOS alert using voice commands, ena
 
 Feature #2:
 Reminders
-Create REMIDER feature in the app to manage their daily routines, medication schedules, and important tasks with ease and efficiency. 
+Create REMINDER feature in the app to manage their daily routines, medication schedules, and important tasks with ease and efficiency. 
 
 1)	Personalized Reminders based on individual preferences, schedules
 2)	Medication Reminders 
